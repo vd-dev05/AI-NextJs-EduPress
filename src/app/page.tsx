@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import Image from 'next/image'
 import ScrollToTop from './components/ScrollToTop'
 
@@ -475,7 +476,7 @@ export default function Home() {
                 height={48}
               />
             </div>
-            <h3 className="start-text">Let's Start With Academy LMS</h3>
+            <h3 className="start-text">Let&apos;s Start With Academy LMS</h3>
             <div className="start-buttons">
               <a href="#" className="student-button">I&apos;m a Student</a>
               <a href="#" className="instructor-button">Become An Instructor</a>
