@@ -205,7 +205,7 @@ export default function Home() {
                   height={200}
                   objectFit="cover"
                 />
-                <span className="course-tag">Photography</span>
+                <span className="course-tag">&quot;Photography&quot;</span>
               </div>
               <div className="course-content">
                 <div className="course-author">
@@ -247,7 +247,7 @@ export default function Home() {
                   height={200}
                   objectFit="cover"
                 />
-                <span className="course-tag">Photography</span>
+                <span className="course-tag">&quot;Photography&quot;</span>
               </div>
               <div className="course-content">
                 <div className="course-author">
@@ -289,7 +289,7 @@ export default function Home() {
                   height={200}
                   objectFit="cover"
                 />
-                <span className="course-tag">Photography</span>
+                <span className="course-tag">&quot;Photography&quot;</span>
               </div>
               <div className="course-content">
                 <div className="course-author">
@@ -477,7 +477,7 @@ export default function Home() {
             </div>
             <h3 className="start-text">Let's Start With Academy LMS</h3>
             <div className="start-buttons">
-              <a href="#" className="student-button">I'm a Student</a>
+              <a href="#" className="student-button">I&apos;m a Student</a>
               <a href="#" className="instructor-button">Become An Instructor</a>
             </div>
           </div>
